@@ -1,0 +1,145 @@
+@media (max-width: 346px) {
+  .filme-poster {
+    position: relative;
+    height: 300px;
+    bottom: 45px;
+    left: 10px;
+    right: 10px;
+    text-align: center;
+  }
+
+  .title-subtitle {
+    position: absolute;
+  }
+  .title-subtitle h1 {
+    font-size: 27px;
+    text-align: center;
+  }
+  .title-subtitle p {
+    font-size: 13px;
+    margin-left: 20px;
+    margin-right: 10px;
+    text-align: center;
+  }
+
+  .search-bar {
+    padding-right: 46px;
+  }
+  .button-search {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+  }
+  .button-reset {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+  }
+
+  .filme-title {
+    font-size: 18px;
+    position: absolute;
+    top: 250px;
+    text-align: center;
+  }
+  .filme-subtitle {
+    position: absolute;
+    top: 630px;
+    text-align: center;
+  }
+  .filme-actors {
+    position: relative;
+    top: 420px;
+    text-align: center;
+  }
+  .filme-actors strong {
+    font-size: 14px;
+  }
+  .filme-review {
+    position: relative;
+    top: 415px;
+    text-align: center;
+  }
+  .favorite-button {
+    position: absolute;
+    top: 800px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 320px) {
+  .filme-poster {
+    position: relative;
+    height: 300px;
+    bottom: 58px;
+    left: 10px;
+    right: 10px;
+    text-align: center;
+  }
+
+  .title-subtitle {
+    position: absolute;
+  }
+  .title-subtitle h1 {
+    font-size: 27px;
+    text-align: center;
+  }
+  .title-subtitle p {
+    font-size: 13px;
+    margin-left: 20px;
+    margin-right: 10px;
+    text-align: center;
+  }
+
+  .search-bar {
+    padding-right: 46px;
+  }
+  .button-search {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+  }
+  .button-reset {
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+  }
+
+  .filme-title {
+    font-size: 18px;
+    position: absolute;
+    top: 250px;
+    text-align: center;
+  }
+  .filme-subtitle {
+    position: absolute;
+    top: 630px;
+    text-align: center;
+  }
+  .filme-actors {
+    position: relative;
+    top: 420px;
+    text-align: center;
+  }
+  .filme-actors strong {
+    font-size: 14px;
+  }
+  .filme-review {
+    position: relative;
+    top: 415px;
+    text-align: center;
+  }
+  .favorite-button {
+    position: absolute;
+    top: 800px;
+    text-align: center;
+  }
+}
