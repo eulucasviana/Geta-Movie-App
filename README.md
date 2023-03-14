@@ -35,7 +35,7 @@ O aplicativo foi criado com o intuito de realizar o desafio front-end do GETA.
 - O aplicativo possui a finalidade de realizar busca de filmes, por meio de API.
 - O aplicativo também possui a funcionalidade de armazenamento local em Web, para que possa ser armazenada as informações dos filmes favoritos.
 
-# 0bs: Vale ressaltar que a aplicação só armazena os filmes favoritos, no navegador em servidor local.
+# Obs: Vale ressaltar que a aplicação só armazena os filmes favoritos, no navegador em servidor local.
 
 ## Minhas informações:
 
